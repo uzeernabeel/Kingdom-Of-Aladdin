@@ -1,0 +1,19 @@
+
+player sprite1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player1
+  rotate: false
+  xy: 1, 379
+  size: 1258, 591
+  orig: 1258, 591
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 1, 1
+  size: 1343, 376
+  orig: 1343, 376
+  offset: 0, 0
+  index: -1

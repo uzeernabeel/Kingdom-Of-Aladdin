@@ -1,0 +1,19 @@
+
+sprite sheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+player
+  rotate: false
+  xy: 1, 121
+  size: 403, 602
+  orig: 403, 602
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 1, 1
+  size: 232, 118
+  orig: 232, 118
+  offset: 0, 0
+  index: -1
